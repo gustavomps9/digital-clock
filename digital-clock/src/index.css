@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(204, 204, 204);
+}
+
+h1{
+  font-size: 3rem;
+  font-weight: bold;
+  color: rgb(39, 12, 12);
+  text-align: center;
+}
+
+h2 {
+  font-size: 4rem;
+  font-weight: bold;
+  color: rgb(236, 209, 173);
+  background-color: rgb(39, 12, 12);
+  text-align: center;
+  margin: 10% auto;
+  border: 3px solid rgb(39, 12, 12);
+  padding: 40px;
+  border-radius: 50%;
+  width: 300px; 
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
